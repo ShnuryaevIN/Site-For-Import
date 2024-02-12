@@ -1,0 +1,4 @@
+tmp/
+*.html_old
+img/*.png_backup
+img/*.db
